@@ -12,6 +12,7 @@ const initialState = {
     price: 0,
     discountedPrice: 0,
     img: "",
+    image: "",
     images: [],
     id: 0,
     imgs: { thumbnails: [], previews: [] },
